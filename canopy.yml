@@ -4,7 +4,6 @@ collection:
 metadata:
   - Subject
   - Date
-  - Language
   - Genre
 featured:
   - https://api.dc.library.northwestern.edu/api/v2/works/b167268b-abce-4530-8526-2a405a50b415?as=iiif
